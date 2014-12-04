@@ -22,4 +22,8 @@ Play Store : [PDF Reader](https://play.google.com/store/apps/details?id=com.zrea
 
 ## reconstruction
 
-* missing Apache Commons IO -> Download Jar and add to Eclipse Project http://commons.apache.org/proper/commons-io/download_io.cgi
+* missing Apache Commons IO -> Download jar and add to Eclipse Project http://commons.apache.org/proper/commons-io/download_io.cgi
+* found some missing classes and AndroidManifest in .metadata folder
+* completed code with skeletons to make it compile
+
+File browser does not work but opening documents does
